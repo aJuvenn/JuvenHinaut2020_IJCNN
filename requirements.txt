@@ -64,7 +64,7 @@ six==1.11.0
 SpeechRecognition==3.8.1
 subprocess32==3.5.3
 tensorboard==1.11.0
-tensorflow==1.11.0
+tensorflow==1.15.2
 termcolor==1.1.0
 tqdm==4.26.0
 Unidecode==1.0.22
