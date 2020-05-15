@@ -388,7 +388,7 @@ if __name__ == '__main__':
     NB_TRAININGS = 1000
     NB_TESTS = 1000
     RESERVOIR_SIZE = 1000
-    NB_SHOWING = 20
+    NB_SHOWING = 5
     SHOW_RESERVOIR_PCA = False
     SAVE_FIG = True
     
